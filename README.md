@@ -15,5 +15,10 @@ Git collaboration workshop
 	- `git checkout -b <branch_name>`: old way to do this
 - `git pull <where> <what>`: pulls repository from github to computer
 
+## Pull requests (Online Merge)
+- `git push origin <branch_name>`: pushes branch to the remote
+- don't forget to clean up your branches
+- `git fetch --prune`: cleans up the references in your `git log --oneline`
+- `git branch -d <branch_name>`: delete branch on your local machine
 
 
