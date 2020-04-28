@@ -13,6 +13,7 @@ Git collaboration workshop
 	-`git checkout <branch_name>`: old way to moving to a branch
 - `git switch -c <branch_name>`: both create and move to a branch in one command
 	- `git checkout -b <branch_name>`: old way to do this
+- `git pull <where> <what>`: pulls repository from github to computer
 
 
 
